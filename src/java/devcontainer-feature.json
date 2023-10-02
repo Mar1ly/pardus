@@ -1,1 +1,5 @@
-
+{
+"id": "java",
+"version":"1.0.0",
+"name": "alpine-java-dev"
+}
